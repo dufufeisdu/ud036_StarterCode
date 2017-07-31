@@ -1,4 +1,4 @@
-class Media:
+class Media(object):
     "Information about Media"
 
     def __init__(self, title, description, poster_image_url, trailer_youtube_url):
