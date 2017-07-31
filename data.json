@@ -1,0 +1,46 @@
+{
+  "data": [{
+      "catogery": "movie",
+      "title": "Despicable Me 3",
+      "description": "A man want to find himslef after he was married",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/9/91/Despicable_Me_3_%282017%29_Teaser_Poster.jpg",
+      "trailer_youtube_url": "https://www.youtube.com/watch?v=6DBi41reeF0"
+    },
+    {
+      "catogery": "movie",
+      "title": "Despicable Me 2",
+      "description": "Love story of a Dad",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/2/29/Despicable_Me_2_poster.jpg",
+      "trailer_youtube_url": "https://www.youtube.com/watch?v=yM9sKpQOuEw"
+    },
+    {
+      "catogery": "movie",
+      "title": "Despicable Me",
+      "description": "...",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/d/db/Despicable_Me_Poster.jpg",
+      "trailer_youtube_url": "https://www.youtube.com/watch?v=zzCZ1W_CUoI"
+
+    },
+    {
+      "catogery": "TV",
+      "title": "The Walking Dead",
+      "description": "The dead are waking at ruin land",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/6/6d/Walking_Dead_S7_Poster.jpg",
+      "trailer_youtube_url": "https://www.youtube.com/watch?v=3l82kiUvnKM"
+    },
+    {
+      "catogery": "TV",
+      "title": "The Big Bang Theory",
+      "description": "A beauty and four nerds",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/7/7b/The_Big_Bang_Theory_%28Official_Title_Card%29.png",
+      "trailer_youtube_url": "https://www.youtube.com/watch?v=7VScmSWBSTM"
+    },
+    {
+      "catogery": "TV",
+      "title": "Game of Thrones",
+      "description": "....",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",
+      "trailer_youtube_url": "https://www.youtube.com/watch?v=1Mlhnt0jMlg"
+    }
+  ]
+}

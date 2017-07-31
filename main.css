@@ -1,5 +1,6 @@
  body {
-   padding-top: 80px;
+   padding-top: 100px;
+   background-color: #ccc
  }
  
  #trailer .modal-dialog {
